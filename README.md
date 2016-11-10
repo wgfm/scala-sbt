@@ -2,6 +2,9 @@
 
 This repository contains **Dockerfile** of [Scala](http://www.scala-lang.org) and [sbt](http://www.scala-sbt.org).
 
+This fork fixes sbt's version at 0.13.12, because of issues with my CI
+environment.
+
 
 ## Base Docker Image ##
 
